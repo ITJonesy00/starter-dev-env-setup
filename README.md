@@ -12,34 +12,33 @@ It uses Docker 🐳 along with Docker Compose for managing and orchestrating con
 
 
 <details>
-  <summary> 📽 How to use it ? 
-    
-    Start with my MVP Lab
-    This project is a learning-based infrastructure simulator.
+  <summary> 📽 How to use it ?  </summary>
+  
+        Start with my MVP Lab
+          This project is a learning-based infrastructure simulator.
+        It demonstrates:
+          - Virtual machine architecture design (so, and containers too !)
+          - Security layering (ANSSI-inspired)
+          - DevSecOps principles
+          - Local vs production environments
+        ⚠️ This is not a production system !    
 
-    It demonstrates:
-    - Virtual machine architecture design (so, and containers too !)
-    - Security layering (ANSSI-inspired)
-    - DevSecOps principles
-    - Local vs production environments
-
-    ⚠️ This is not a production system !
-   
-  </summary>
 </details>
 
 <details>
-<summary> 🔁 Checklist </summary>
+<summary> 🔁 Checklist 
+</summary>
 
-### 🎯 MVP 
-- [ ] minimalist form
-
-### TODOS...
-- [ ] VM setup (DEBIAN 13 base system)
-- [ ] development environment
-- [ ] git workflow (multi-plateform)
-- [ ] automation scripts
-- [ ] documentation (wh-answers/ VMs  tab)
+  ##### 🎯 MVP 
+  - [ ] minimalist form
+  
+  ##### TODOS...
+  - [ ] VM setup (DEBIAN 13 base system)
+  - [ ] development environment
+  - [ ] git workflow (multi-plateform)
+  - [ ] automation scripts
+  - [ ] documentation (wh-answers/ VMs  tab)
+</details>
 
 ---
 
