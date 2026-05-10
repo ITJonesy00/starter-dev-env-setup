@@ -10,17 +10,16 @@ It uses Docker 🐳 along with Docker Compose for managing and orchestrating con
 
 #### ☕️ [Codeberg : starter-dev-env-setup](https://codeberg.org/ITJonesy00/starter-dev-env-setup)
 
-
 <details>
   <summary> 📽 How to use it ?  </summary>
   
-        Start with my MVP Lab
+        Start with blueprint Lab
           This project is a learning-based infrastructure simulator.
         It demonstrates:
-          - Virtual machine architecture design (so, and containers too !)
+          - Containers architecture design
           - Security layering (ANSSI-inspired)
           - DevSecOps principles
-          - Local vs production environments
+          - Local vs production environments (local-first)
         ⚠️ This is not a production system !    
 
 </details>
@@ -29,19 +28,21 @@ It uses Docker 🐳 along with Docker Compose for managing and orchestrating con
 <summary> 🔁 Checklist 
 </summary>
 
-  ##### 🎯 MVP 
-  - [ ] minimalist form
+  ##### 🎯 Blueprint setup
+  - [x] minimalist form (*)
   
-  ##### TODOS...
-  - [ ] VM setup (DEBIAN 13 base system)
+  ##### ✏️TODOS...
+  - [ ] minimal pipeline CI (codeberg)
+  - [x] VM setup (DEBIAN 13 base system)
   - [ ] development environment
-  - [ ] git workflow (multi-plateform)
-  - [ ] automation scripts
-  - [ ] documentation (wh-answers/ VMs  tab)
+  - [ ] automation scripts (minimal)
+  - [ ] documentation (wh?-answers/ containers types tab)
 </details>
 
 ---
 
-Parts of the UI mockup and CSS styling were generated with AI assistance.
+➡️ Next step : watch it
+
+(*) Parts of the UI mockup and CSS styling were generated with AI assistance.
 
 @ITJonesy00 - 2026
