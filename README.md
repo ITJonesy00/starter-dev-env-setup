@@ -2,6 +2,7 @@
 
 A secure and reproductible Linux-based development environment for backend and DevSecOps workflows.
 
+
 This project is built on a hybrid virtualized infrastructure, combining virtual machines (VMs) and containers.
 
 It uses Docker 🐳 along with Docker Compose for managing and orchestrating containerized services.
@@ -12,8 +13,11 @@ It uses Docker 🐳 along with Docker Compose for managing and orchestrating con
 
 <details>
   <summary> 📽 How to use it ?  </summary>
-  
-        Start with blueprint Lab
+
+Start with blueprint Lab.
+
+Blueprint : This document presents a draft version of the project structure and usage.
+        
           This project is a learning-based infrastructure simulator.
         It demonstrates:
           - Containers architecture design
@@ -29,14 +33,14 @@ It uses Docker 🐳 along with Docker Compose for managing and orchestrating con
 </summary>
 
   ##### 🎯 Blueprint setup
-  - [x] minimalist form (*)
+  - [x] minimalist form : blueprint lab (*)
   
   ##### ✏️TODOS...
   - [ ] minimal pipeline CI (codeberg)
   - [x] VM setup (DEBIAN 13 base system)
-  - [ ] development environment
+  - [ ] development environment first
   - [ ] automation scripts (minimal)
-  - [ ] documentation (wh?-answers/ containers types tab)
+  - [x] documentation (wh?-answers/ containers types tab)
 </details>
 
 ---
