@@ -40,7 +40,7 @@ Blueprint : This document presents a draft version of the project structure and 
   - [x] VM setup (DEBIAN 13 base system)
   - [ ] development environment first
   - [ ] automation scripts (minimal)
-  - [x] documentation (wh?-answers/ containers types tab)
+  - [ ] documentation (wh?-answers/ containers types tab)
 </details>
 
 ---
