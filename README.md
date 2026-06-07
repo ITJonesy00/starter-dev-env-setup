@@ -1,18 +1,20 @@
 # starter-dev-env-setup
 
-A secure and reproductible Linux-based development environment for backend and DevSecOps workflows.
+> ➡️ Second brick of my HOMELAB system :
 
+This repository is a public showcase of the project.
+
+The current objective : Built as a personnal lab to pratice Linux, security hardening and development workflows.
 
 This project is built on a hybrid virtualized infrastructure, combining virtual machines (VMs) and containers.
 
 It uses Docker 🐳 along with Docker Compose for managing and orchestrating containerized services.
 
-➡️ Second brick of my HOMELAB system : Built as a personnal lab to pratice Linux, security hardening and development workflows.
-
-#### ☕️ [Codeberg : starter-dev-env-setup](https://codeberg.org/ITJonesy00/starter-dev-env-setup)
+The source code, development workflow and releases are maintained on **Codeberg** : 
+☕️ [Codeberg : starter-dev-env-setup](https://codeberg.org/ITJonesy00/starter-dev-env-setup)
 
 <details>
-  <summary> 📽 How to use it ?  </summary>
+  <summary> 📽 Overview  </summary>
 
 Start with blueprint Lab.
 
@@ -21,32 +23,33 @@ Blueprint : This document presents a draft version of the project structure and 
           This project is a learning-based infrastructure simulator.
         It demonstrates:
           - Containers architecture design
-          - Security layering (ANSSI-inspired)
+          - Security layering
           - DevSecOps principles
           - Local vs production environments (local-first)
-        ⚠️ This is not a production system !    
 
 </details>
 
 <details>
 <summary> 🔁 Checklist 
 </summary>
-
-  ##### 🎯 Blueprint setup
-  - [x] minimalist form : blueprint lab (*)
   
-  ##### ✏️TODOS...
-  - [ ] minimal pipeline CI (codeberg)
-  - [x] VM setup (DEBIAN 13 base system)
+  ### Components 
+  - [x] documentation (wh?-answers/ containers types tab)
+  - [x] diagram (wh?-questions)
+  - [x] VM or container setup (DEBIAN 13 base system)
+  - [x] blueprint 
+  
+  ### ✏️TODOS...
   - [ ] development environment first
   - [ ] automation scripts (minimal)
-  - [ ] documentation (wh?-answers/ containers types tab)
+
+  ### CI
+  - [ ] minimal pipeline CI (codeberg)
+  
 </details>
 
----
+> ➡️ Next step : Watch IT
 
-➡️ Next step : watch it
-
-(*) Parts of the UI mockup and CSS styling were generated with AI assistance.
-
+--- 
 @ITJonesy00 - 2026
+       
