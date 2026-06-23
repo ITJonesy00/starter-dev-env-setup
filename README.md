@@ -8,8 +8,6 @@ The current objective : Built as a personnal lab to pratice Linux, security hard
 
 This project is built on a hybrid virtualized infrastructure, combining virtual machines (VMs) and containers.
 
-It uses Docker 🐳 along with Docker Compose for managing and orchestrating containerized services.
-
 The source code, development workflow and releases are maintained on **Codeberg** : 
 ☕️ [Codeberg : starter-dev-env-setup](https://codeberg.org/ITJonesy00/starter-dev-env-setup)
 
