@@ -1,47 +1,38 @@
 # starter-dev-env-setup
 
-A secure and reproductible Linux-based development environment for backend and DevSecOps workflows.
+> ➡️ Second brick of my HOMELAB system :
+
+This repository is a public showcase of a personal infrastructure lab focused on Linux, security, and DevSecOps.
+
+It includes practical implementations of hybrid infrastructure (VMs and containers), system hardening strategies, and development workflows in a local-first environment.
 
 This project is built on a hybrid virtualized infrastructure, combining virtual machines (VMs) and containers.
 
-It uses Docker 🐳 along with Docker Compose for managing and orchestrating containerized services.
-
-➡️ Second brick of my HOMELAB system : Built as a personnal lab to pratice Linux, security hardening and development workflows.
-
-#### ☕️ [Codeberg : starter-dev-env-setup](https://codeberg.org/ITJonesy00/starter-dev-env-setup)
-
+The source code, development workflow and releases are maintained on **Codeberg** : 
+☕️ [Codeberg : starter-dev-env-setup](https://codeberg.org/ITJonesy00/starter-dev-env-setup)
 
 <details>
-  <summary> 📽 How to use it ?  </summary>
-  
-        Start with my MVP Lab
-          This project is a learning-based infrastructure simulator.
-        It demonstrates:
-          - Virtual machine architecture design (so, and containers too !)
-          - Security layering (ANSSI-inspired)
-          - DevSecOps principles
-          - Local vs production environments
-        ⚠️ This is not a production system !    
+  <summary> 📽 Blueprint </summary>
+
+- Start with blueprint Lab. This document presents a draft version of the project structure and usage.
+        
+- The project is structured around a Blueprint Lab, which defines the architecture, components, and system interactions.
 
 </details>
 
 <details>
-<summary> 🔁 Checklist 
-</summary>
+  <summary> 🔁 Checklist  </summary>
 
-  ##### 🎯 MVP 
-  - [ ] minimalist form
   
-  ##### TODOS...
-  - [ ] VM setup (DEBIAN 13 base system)
-  - [ ] development environment
-  - [ ] git workflow (multi-plateform)
-  - [ ] automation scripts
-  - [ ] documentation (wh-answers/ VMs  tab)
+  - [x] Personal references
+  - [ ] Complete blueprint (draft ✅, references, css)
+  - [ ] Development environment first
+  - [ ] Minimal automation scripts
+  
 </details>
 
----
+> ➡️ Next step : Watch IT
 
-Parts of the UI mockup and CSS styling were generated with AI assistance.
-
+--- 
 @ITJonesy00 - 2026
+       
