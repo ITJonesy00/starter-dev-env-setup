@@ -12,26 +12,16 @@ The source code, development workflow and releases are maintained on **Codeberg*
 ☕️ [Codeberg : starter-dev-env-setup](https://codeberg.org/ITJonesy00/starter-dev-env-setup)
 
 <details>
-  <summary> 📽 Blueprint </summary>
+  <summary> 📽 Overview </summary>
 
 - Start with blueprint Lab. This document presents a draft version of the project structure and usage.
         
 - The project is structured around a Blueprint Lab, which defines the architecture, components, and system interactions.
 
+- A document is attached to the project to report on the tasks performed (checklist, decisions made, and use of AI).
+
 </details>
 
-<details>
-  <summary> 🔁 Checklist  </summary>
-
-  
-  - [x] Personal references
-  - [ ] Complete blueprint (draft ✅, references, css)
-  - [ ] Development environment first
-  - [ ] Minimal automation scripts
-  
-</details>
-
-> ➡️ Next step : Watch IT
 
 --- 
 @ITJonesy00 - 2026
